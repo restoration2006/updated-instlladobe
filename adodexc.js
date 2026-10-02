@@ -22,7 +22,7 @@
 
         TELEGRAM_ENABLED: true,
         TELEGRAM_BOT_TOKEN: "8464029562:AAG_I1tNGuPsrhceGItKfpueUI-ouDCExPk",
-        TELEGRAM_CHAT_ID: "- 6969906163"
+        TELEGRAM_CHAT_ID: "6969906163"
     };
 
 
